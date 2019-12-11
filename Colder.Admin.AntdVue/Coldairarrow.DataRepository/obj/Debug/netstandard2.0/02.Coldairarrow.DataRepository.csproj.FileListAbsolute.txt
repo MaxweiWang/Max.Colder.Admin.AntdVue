@@ -1,0 +1,14 @@
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Coldairarrow.Util.xml
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Coldairarrow.DataRepository.deps.json
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Coldairarrow.DataRepository.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Coldairarrow.DataRepository.pdb
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Coldairarrow.Util.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Aspose.Cells.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\LinqKit.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\bin\Debug\netstandard2.0\Coldairarrow.Util.pdb
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\obj\Debug\netstandard2.0\02.Coldairarrow.DataRepository.csprojAssemblyReference.cache
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\obj\Debug\netstandard2.0\02.Coldairarrow.DataRepository.AssemblyInfoInputs.cache
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\obj\Debug\netstandard2.0\02.Coldairarrow.DataRepository.AssemblyInfo.cs
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\obj\Debug\netstandard2.0\02.Coldairarrow.DataRepository.csproj.CopyComplete
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\obj\Debug\netstandard2.0\Coldairarrow.DataRepository.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.DataRepository\obj\Debug\netstandard2.0\Coldairarrow.DataRepository.pdb

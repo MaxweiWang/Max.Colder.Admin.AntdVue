@@ -1,0 +1,15 @@
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Util.xml
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Entity.xml
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Entity.deps.json
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Entity.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Entity.pdb
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Util.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Aspose.Cells.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\LinqKit.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\bin\Debug\netstandard2.0\Coldairarrow.Util.pdb
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\obj\Debug\netstandard2.0\03.Coldairarrow.Entity.csprojAssemblyReference.cache
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\obj\Debug\netstandard2.0\03.Coldairarrow.Entity.AssemblyInfoInputs.cache
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\obj\Debug\netstandard2.0\03.Coldairarrow.Entity.AssemblyInfo.cs
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\obj\Debug\netstandard2.0\03.Coldairarrow.Entity.csproj.CopyComplete
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\obj\Debug\netstandard2.0\Coldairarrow.Entity.dll
+D:\max\OpenSource\Core3SeparateFrame\Colder.Admin.AntdVue\src\Coldairarrow.Entity\obj\Debug\netstandard2.0\Coldairarrow.Entity.pdb
